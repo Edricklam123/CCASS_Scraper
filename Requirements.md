@@ -1,0 +1,6 @@
+# Requirements
+Python version 3 or later 
+BeautifulSoup
+requests
+pandas
+datetime
