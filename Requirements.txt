@@ -1,5 +1,5 @@
 # Requirements
-Python version 3 or later 
+Python version 3 or later
 BeautifulSoup
 requests
 pandas
